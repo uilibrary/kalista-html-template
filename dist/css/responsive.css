@@ -1,0 +1,514 @@
+/* Latop Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+
+
+
+
+}
+
+
+/* LG  Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+    .single-services {
+        padding: 30px 14px 10px 14px;
+    }
+
+    .single-services p {
+        font-size: 15px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 40px;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .ul-blog-area.blog-bg {
+        height: 100%;
+    }
+
+
+
+}
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .search-form-centered {
+        width: 90%;
+    }
+
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        margin-right: 80px;
+        padding: 26px 0 0 0;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin-right: 11px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .ul-slider-area-content h2 {
+        font-size: 50px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-content-area {
+        padding: 20px;
+    }
+
+    .ul-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .ul-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 120px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 28px;
+    }
+
+    .cta-img {
+        right: 0;
+    }
+
+    .ul-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .ul-blog-area.blog-bg {
+        height: 100%;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* small mobile (XS) :320px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .search-form-centered {
+        width: 90%;
+    }
+
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        margin-right: 80px;
+        padding: 26px 0 0 0;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin-right: 30px;
+        display: inline-block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .ul-lang {
+        text-align: center;
+        float: inherit !important;
+        margin: 25px 0 0 0;
+    }
+
+    .ul-slider-area-content h2 {
+        font-size: 40px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .ul-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .ul-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .ul-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .ul-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .ul-contact-form-area {
+        margin-top: -100px;
+    }
+
+
+
+
+
+
+
+}
+
+
+/* SM Device :480px. */
+@media (min-width: 361px) and (max-width: 575px) {
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        display: none;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin: 0 0 15px;
+        display: block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .ul-lang {
+        float: inherit !important;
+        margin: 15px 0 0 0;
+    }
+
+    .ul-slider-area-content h2 {
+        font-size: 30px;
+    }
+
+    .ul-single-slider p {
+        font-size: 16px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .ul-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .ul-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .ul-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .ul-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .section-title h3 {
+        font-size: 35px;
+    }
+
+    .about-slider-area .owl-nav div,
+    .testimonial-wraper .owl-nav div,
+    .ul-all-team-wraper .owl-nav div {
+        right: 50%;
+        top: 100%;
+    }
+
+
+    .about-slider-area .owl-nav div.owl-next,
+    .testimonial-wraper .owl-nav div.owl-next,
+    .ul-all-team-wraper .owl-nav div.owl-next {
+        right: auto;
+    }
+
+    .blog-post-comment {
+        float: inherit !important;
+        margin: 15px 0;
+    }
+
+    .single-blog-content .post-title {
+        font-size: 26px;
+    }
+
+    .ul-contact-form-area {
+        margin-top: -100px;
+    }
+
+
+
+}
+
+/* SM Device :480px. */
+@media (max-width: 360px) {
+    .ul-border-lr:before {
+        left: 30px;
+    }
+
+    .ul-border-lr:after {
+        right: 30px;
+    }
+
+    ul.header-search-social {
+        display: none;
+    }
+
+    .header-logo {
+        padding: 26px 0 0 0;
+    }
+
+    ul.header-short-info li {
+        margin: 0 0 15px;
+        display: block;
+    }
+
+    ul.header-short-info .short-info {
+        margin-top: 10px;
+    }
+
+    ul.header-short-info li:last-child {
+        margin-right: 0;
+    }
+
+    .ul-lang {
+        float: inherit !important;
+        margin: 15px 0 0 0;
+    }
+
+    .ul-slider-area-content h2 {
+        font-size: 30px;
+    }
+
+    .ul-single-slider p {
+        font-size: 16px;
+    }
+
+    .border-r:before,
+    .border-b:before {
+        display: none;
+    }
+
+    .single-services {
+        padding: 30px 30px 0px 30px;
+    }
+
+    .videos-img {
+        position: inherit;
+        height: auto;
+        width: 100%;
+    }
+
+    .ul-counter-area {
+        margin: 30px 0 35px;
+    }
+
+    .ul-team-area {
+        margin: 50px 0 50px;
+    }
+
+    .cta-content-box-wraper {
+        padding: 100px 30px;
+    }
+
+    .cta-content-box h2 {
+        font-size: 32px;
+        margin: 20px 0 35px;
+    }
+
+    .cta-btn {
+        margin: 0;
+        float: inherit;
+    }
+
+    .cta-img {
+        display: none;
+    }
+
+    .ul-blog-area {
+        height: 100%;
+    }
+
+    .spacer {
+        height: 0;
+    }
+
+    .ul-blog-area.blog-bg {
+        height: 100%;
+    }
+
+    .section-title h3 {
+        font-size: 35px;
+    }
+
+    .about-slider-area .owl-nav div,
+    .testimonial-wraper .owl-nav div,
+    .ul-all-team-wraper .owl-nav div {
+        right: 50%;
+        top: 100%;
+    }
+
+
+    .about-slider-area .owl-nav div.owl-next,
+    .testimonial-wraper .owl-nav div.owl-next,
+    .ul-all-team-wraper .owl-nav div.owl-next {
+        right: auto;
+    }
+
+    .blog-post-comment {
+        float: inherit !important;
+        margin: 15px 0;
+    }
+
+    .single-blog-content .post-title {
+        font-size: 26px;
+    }
+
+    .ul-contact-form-area {
+        margin-top: -100px;
+        padding: 20px;
+    }
+
+}
