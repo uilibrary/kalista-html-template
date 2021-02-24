@@ -188,6 +188,10 @@ label {
   opacity: 1;
 }
 
+.btn {
+  border-radius: 2px;
+}
+
 .ul-border-lr {
   position: relative;
 }
@@ -319,6 +323,7 @@ ul.header-short-info li i {
   line-height: 32px;
   font-size: 18px;
   margin-right: 10px;
+  border-radius: 2px;
 }
 
 ul.header-short-info .short-info {
@@ -338,7 +343,8 @@ ul.header-short-info .short-info span {
 .ul-lang select {
   text-transform: capitalize;
   border: 1px solid #e2e6ef;
-  padding: 10px 10px;
+  padding: 10px 16px 10px 10px;
+  border-radius: 2px;
 }
 
 /* Header Social Css */
